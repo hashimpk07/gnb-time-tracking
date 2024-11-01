@@ -1,5 +1,4 @@
-## GNB-TECH SOFTWARE SOLUTIONS PVT LTD
-<h1>  GNB-TECH Time Tracking System  </h1>
+## GNB-TECH SOFTWARE SOLUTIONS PVT LTD  <h1>  GNB-TECH Time Tracking System  </h1>
 
 <h3> Project Overview </h3>
 <p> The GNB-TECH Time Tracking System is designed to manage and track employee work hours on a weekly basis. The system dynamically generates weekly schedules, calculates individual and team totals, and allows users to adjust hours with automatic recalculations of totals </p>
@@ -20,5 +19,5 @@
   <li> MySQL: Version 5 or above </li>
 </ul>
 
-<h3> Setup Guide </h3>
+<h3> Setup Guide </h3>  https://github.com/hashimpk07/gnb-time-tracking.git
 Database Configuration: Database configuration settings should be set in the DataSource file within the lib folder.
