@@ -1,4 +1,4 @@
-## GNB-TECH SOFTWARE SOLUTIONS PVT LTD  <h1>  GNB-TECH Time Tracking System  </h1>
+## GNB-TECH SOFTWARE SOLUTIONS PVT LTD   GNB-TECH Time Tracking System  
 
 <h3> Project Overview </h3>
 <p> The GNB-TECH Time Tracking System is designed to manage and track employee work hours on a weekly basis. The system dynamically generates weekly schedules, calculates individual and team totals, and allows users to adjust hours with automatic recalculations of totals </p>
